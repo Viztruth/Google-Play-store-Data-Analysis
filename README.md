@@ -1,7 +1,7 @@
 # Telling-Stories-With-Data-Final-Project
 My TSWD Final Project [2022]
 
-The 'Telling Stories with data' course is offered by PES University and the course is mentored by Prof. Rituparna Jawahar. In this repository, I have stored all the content involved in the different parts(3) of submissions of the final Project. 
+The 'Telling Stories with data' course is offered as 'Special topic course' for 2 credits by PES University and the course is mentored by Prof. Rituparna Jawahar. In this repository, I have stored all the content involved in the different parts(3) of submissions of the final Project. 
 
 Further details -
 Topic: Google Playstore data analysis.
