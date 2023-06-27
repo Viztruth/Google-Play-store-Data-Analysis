@@ -1,12 +1,15 @@
-# Telling-Stories-With-Data-Final-Project
+# Google Play store Data Analysis | Telling-Stories-With-Data-Final-Project
 My TSWD Final Project [2022]
 
-The 'Telling Stories with data' course is offered as 'Special topic course' for 2 credits by PES University and the course is mentored by Prof. Rituparna Jawahar. In this repository, I have stored all the content involved in the different parts(3) of submissions of the final Project. 
+The 'Telling Stories with data' course is offered as 'Special topic course' for 2 credits by PES University and the course is mentored by Prof. Rituparna Jawahar. In this repository, I have stored all the content involved in the different parts(3) of submissions of my final Project - `Google Play store Data Analysis`. 
+
 
 Further details -
+```
 Topic: Google Playstore data analysis.
 Year: 2022
 Grade obtained: A
+```
 
 The final project was divided into 3 parts -
 1. The first part was choosing appropriate dataset. I have chosen the Google playstore dataset obtained from Kaggle. [Link: https://www.kaggle.com/datasets/lava18/google-play-store-apps]
