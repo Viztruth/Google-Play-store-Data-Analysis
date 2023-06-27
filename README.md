@@ -7,7 +7,7 @@ This repository contains all the materials involved in the different parts of my
 ```
 Topic: Google Playstore data analysis.
 Dataset: Kaggle
-Tool Used: Tableau
+Tool Used: Tableau, MS Powerpoint
 Year: 2022
 Grade obtained: A
 ```
